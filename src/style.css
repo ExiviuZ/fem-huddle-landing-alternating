@@ -172,7 +172,7 @@ main section:nth-child(4) {
   box-shadow: 0px 2px 5px 0px hsla(var(--neutral-dark-cyan), 0.3);
 }
 .wrapper {
-  width: min(90%, 61rem);
+  width: min(90%, 64rem);
   margin: auto;
 }
 
