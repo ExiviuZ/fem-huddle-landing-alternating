@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/ExiviuZ/fem-huddle-landing-alternating/]
+- Live Site URL: [https://exiviuz.github.io/fem-huddle-landing-alternating/]
 
 ## My process
 
