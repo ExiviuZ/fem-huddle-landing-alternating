@@ -141,6 +141,10 @@ main section {
   align-items: center;
 }
 
+main section p {
+  color:hsl(var(--neutral-grayish-blue));
+}
+
 main section:not(:nth-child(4)) {
   margin-bottom: 4rem;
 }
